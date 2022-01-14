@@ -74,4 +74,25 @@ Variables
   text-align: center;
 }
 
+.blogs__h2 {
+  font: italic normal 900 30px/40px Playfair Display;
+  color: #121619;
+}
+
+.blogs__p {
+  font: normal normal 300 16px/21px Roboto;
+  color: #d76c69;
+}
+
+.footer__img {
+  color: #fff;
+}
+
+.footer__container {
+  display: flex;
+  justify-content: center;
+  background-color: #121619;
+  padding: 86px 167px 86px 166px;
+}
+
 /*# sourceMappingURL=style.css.map */
