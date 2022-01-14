@@ -1,0 +1,77 @@
+/* 
+Variables
+*/
+/* 
+Variables
+*/
+.bg-nav {
+  background-color: black;
+  color: white;
+}
+
+.nav__link {
+  color: #fff;
+  text-decoration: none;
+  text-align: end;
+}
+
+.header__favicon {
+  color: #fff;
+}
+
+.header__img {
+  background-image: url(/assets/images/post-image.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header__text {
+  color: #fff;
+  text-align: center;
+  font: italic normal 900 40px/53px Playfair Display;
+  padding-top: 50px;
+}
+
+.header__text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.information__container {
+  padding: 0 50px 0 50px;
+}
+
+.information__description {
+  padding: 0 50px 0 50px;
+  font: normal normal normal 16px/21px Playfair Display;
+}
+
+.information__title {
+  padding: 47px 50px 47px 50px;
+  font: normal normal 300 16px/40px Roboto;
+}
+
+.botom__container {
+  display: flex;
+  justify-content: space-around;
+  padding: 54px 62px 72px 62px;
+}
+
+.botom__1 {
+  border-radius: 50px;
+}
+
+.botom__2 {
+  border-radius: 50px;
+}
+
+.blogs {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
