@@ -1,5 +1,6 @@
 .header__favicon{
   color: $color-white;
+  margin-top: 250px;
 }
 .header__img{
 background-image: url(/assets/images/post-image.jpg);
@@ -9,13 +10,14 @@ background-size: cover;
 display: flex;
 flex-direction: column;
 justify-content: center;
+background-position: center;
 
 }
 .header__text{
   color: $color-white;
   text-align: center;
   font: italic normal 900 40px/53px Playfair Display;
-  padding-top: 50px;
+  padding-top: 250px;
 }
 .header__text-container{
   display: flex;

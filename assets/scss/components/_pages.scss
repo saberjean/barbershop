@@ -1,0 +1,29 @@
+.page__container {
+  color: $color-eerie-black;
+  background-color: $color-light-gray;
+  padding-top: 67px;
+  padding-bottom: 67px;
+}
+.page__anterior {
+  color: $color-eerie-black;
+  background-color: $color-white;
+  border-radius: 50px 0px 0px 50px;
+}
+.page__1 {
+  color: $color-eerie-black;
+
+  background-color: $color-white;
+}
+.page__2 {
+  d-color: $color-white;
+  background-color: $color-white;
+}
+.page__3 {
+  color: $color-eerie-black;
+  background-color: $color-white;
+}
+.page__siguiente {
+  color: $color-eerie-black;
+  background-color: $color-white;
+  border-radius: 0px 50px 50px 0px;
+}

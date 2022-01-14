@@ -1,3 +1,7 @@
+//base
+@import "base/reset";
+@import "base/typography";
+
 //abstract
 @import "abstract/abstract";
 
@@ -6,9 +10,9 @@
 @import "abstract/variables";
 
 
-//navbar
+//components
 @import "components/navbar";
-
+@import "components/pages";
 //layout
 @import "layout/header";
 //content
@@ -17,4 +21,4 @@
 @import "components/buttons";
 //blogs
 @import "layout/blogs";
-@import "layout/footer"
+@import "layout/footer";
