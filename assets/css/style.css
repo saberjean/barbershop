@@ -67,7 +67,7 @@ Variables
 }
 
 .header__img {
-  background-image: url(/assets/images/post-image.jpg);
+  background-image: url(../images/post-image.jpg);
   background-repeat: no-repeat;
   height: 100vh;
   background-size: cover;
