@@ -5,7 +5,8 @@ body * {
 }
 
 * {
-  font: normal normal 300 16px/45px Roboto;
+  font-family: "Playfair Display", serif;
+  font-family: "Roboto", sans-serif;
 }
 
 /* 
@@ -23,7 +24,7 @@ Variables
   color: #fff;
   text-decoration: none;
   text-align: end;
-  margin-left: 90px;
+  margin-left: 10px;
 }
 
 .page__container {
@@ -45,7 +46,7 @@ Variables
 }
 
 .page__2 {
-  d-color: #fff;
+  color: #121619;
   background-color: #fff;
 }
 
@@ -122,13 +123,17 @@ Variables
 }
 
 .blogs__h2 {
-  font: italic normal 900 30px/40px Playfair Display;
-  color: #121619;
+  font-family: "Playfair Display", serif;
+  font-size: 40px;
+  font-weight: 800;
+  font-style: italic;
+  margin-top: 17px;
 }
 
 .blogs__p {
-  font: normal normal 300 16px/21px Roboto;
+  font: 900;
   color: #d76c69;
+  font-family: roboto;
 }
 
 .footer__img {

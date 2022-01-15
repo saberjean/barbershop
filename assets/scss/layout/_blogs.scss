@@ -2,11 +2,14 @@
     text-align: center;
 }
 .blogs__h2{
-    font: italic normal 900 30px/40px Playfair Display;
-    color:$color-eerie-black;
-
+    font-family: "Playfair Display", serif;
+    font-size: 40px;
+    font-weight: 800;
+    font-style: italic;
+    margin-top: 17px;
 }
 .blogs__p{
-    font: normal normal 300 16px/21px Roboto;
+    font: 900 ;
     color:$color-ruddy-pink;
+    font-family: roboto;
 }
